@@ -1,0 +1,13 @@
+C:\Users\ITWORK\source\repos\CloudTask\CloudTask\bin\Debug\netcoreapp3.1\CloudTask.exe
+C:\Users\ITWORK\source\repos\CloudTask\CloudTask\bin\Debug\netcoreapp3.1\CloudTask.deps.json
+C:\Users\ITWORK\source\repos\CloudTask\CloudTask\bin\Debug\netcoreapp3.1\CloudTask.runtimeconfig.json
+C:\Users\ITWORK\source\repos\CloudTask\CloudTask\bin\Debug\netcoreapp3.1\CloudTask.runtimeconfig.dev.json
+C:\Users\ITWORK\source\repos\CloudTask\CloudTask\bin\Debug\netcoreapp3.1\CloudTask.dll
+C:\Users\ITWORK\source\repos\CloudTask\CloudTask\bin\Debug\netcoreapp3.1\CloudTask.pdb
+C:\Users\ITWORK\source\repos\CloudTask\CloudTask\obj\Debug\netcoreapp3.1\CloudTask.csprojAssemblyReference.cache
+C:\Users\ITWORK\source\repos\CloudTask\CloudTask\obj\Debug\netcoreapp3.1\CloudTask.AssemblyInfoInputs.cache
+C:\Users\ITWORK\source\repos\CloudTask\CloudTask\obj\Debug\netcoreapp3.1\CloudTask.AssemblyInfo.cs
+C:\Users\ITWORK\source\repos\CloudTask\CloudTask\obj\Debug\netcoreapp3.1\CloudTask.csproj.CoreCompileInputs.cache
+C:\Users\ITWORK\source\repos\CloudTask\CloudTask\obj\Debug\netcoreapp3.1\CloudTask.dll
+C:\Users\ITWORK\source\repos\CloudTask\CloudTask\obj\Debug\netcoreapp3.1\CloudTask.pdb
+C:\Users\ITWORK\source\repos\CloudTask\CloudTask\obj\Debug\netcoreapp3.1\CloudTask.genruntimeconfig.cache
